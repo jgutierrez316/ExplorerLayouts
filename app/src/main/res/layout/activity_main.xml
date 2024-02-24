@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#191818"
-            android:onClick="irtoActivity2"
+            android:onClick="irActivity2"
             android:text="Cargar" />
 
     </LinearLayout>
@@ -78,7 +78,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#0E0E0E"
-            android:onClick="irtoActivity3"
+            android:onClick="irActivity3"
             android:text="Cargar" />
 
     </LinearLayout>
@@ -106,7 +106,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#191818"
-            android:onClick="irActivity3"
+            android:onClick="irActivity4"
             android:text="Cargar" />
 
     </LinearLayout>

@@ -18,4 +18,19 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void irActivity2(View vista){
+        Intent miIntent = new Intent(this, ConstraintActivity.class);
+        startActivity(miIntent);
+    }
+
+    public void irActivity3(View vista){
+        Intent miIntent = new Intent(this, TableActivity.class);
+        startActivity(miIntent);
+    }
+
+    public void irActivity4(View vista){
+        Intent miIntent = new Intent(this, ProfileActivity.class);
+        startActivity(miIntent);
+    }
 }
+
