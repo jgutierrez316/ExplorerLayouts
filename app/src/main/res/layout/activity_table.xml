@@ -92,11 +92,12 @@
 
         <Button
             android:id="@+id/regresarmenu2"
-            android:layout_width="wrap_content"
+            android:layout_width="209dp"
             android:layout_height="wrap_content"
             android:backgroundTint="#0E0E0E"
-            android:paddingLeft="65dp"
-            android:paddingRight="65dp"
-            android:text="Regresar" />
+            android:onClick="regresarMenu2"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:text="Regresar al menu" />
     </TableRow>
 </TableLayout>

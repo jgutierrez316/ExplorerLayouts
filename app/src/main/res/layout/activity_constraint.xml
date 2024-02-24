@@ -32,6 +32,7 @@
         android:layout_marginTop="28dp"
         android:layout_marginEnd="32dp"
         android:backgroundTint="#090909"
+        android:onClick="regresarMenu"
         android:paddingLeft="85dp"
         android:paddingRight="85dp"
         android:text="Regresar al menu"
