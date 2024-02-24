@@ -8,7 +8,8 @@
 
     <TableRow
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="60dp"
+        android:paddingBottom="15dp">
 
         <TextView
             android:id="@+id/textView22"
@@ -19,7 +20,7 @@
             android:id="@+id/textView23"
             android:layout_width="124dp"
             android:layout_height="wrap_content"
-            android:paddingTop="10dp"
+            android:paddingTop="14dp"
             android:text="Moviles"
             android:textColor="#101010"
             android:textStyle="bold" />
@@ -28,7 +29,7 @@
             android:id="@+id/textView24"
             android:layout_width="115dp"
             android:layout_height="wrap_content"
-            android:paddingTop="10dp"
+            android:paddingTop="14dp"
             android:text="Calculo"
             android:textStyle="bold" />
 
